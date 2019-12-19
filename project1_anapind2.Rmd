@@ -1,0 +1,24 @@
+---
+title: 'Wine Rating Prediction'
+author: "Fall 2019, by Krishna Anapindi (anapind2)"
+date: '12/02/2019'
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  word_document:
+    toc: yes
+    toc_depth: '2'
+  html_document:
+    df_print: paged
+    toc: yes
+    toc_depth: 2
+---
+
+Introduction :
+
+```{r}
+inp_data=read.csv2('inp_data.csv')
+
+
+```
